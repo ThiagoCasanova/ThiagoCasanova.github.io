@@ -1,2 +1,2 @@
-# thiagocasanova.github.io
+# thiagocasanova
 Creating my first website. 
