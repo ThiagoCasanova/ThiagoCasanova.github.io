@@ -1,2 +1,2 @@
 # thiagocasanova
-Creating my first website. 
+Projeto baseado em estruturar um portfólio com maior número de interações e design.
